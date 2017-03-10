@@ -25,8 +25,8 @@ File: Layout CSS
 --------------------------------------------------------------------------------------------------------------- */
 #header{}
 
-#header #logo{margin:30px 0 0 0;}
-#header #logo h1{margin:0; padding:0; font-size:22px; text-transform:uppercase;}
+#header #logo{margin:0 0 0 0;}
+#header #logo h1{margin:0 0 0 0; padding:0; height:50%; width:50%;}
 
 
 /* Page Intro
@@ -223,12 +223,10 @@ td{border-width:0 1px;}
 .faico a{color:#FFFFFF; background-color:#FF5723;}
 .faico a:hover{}
 
-.faicon-dribble:hover{background-color:#EA4C89;}
 .faicon-facebook:hover{background-color:#3B5998;}
 .faicon-google-plus:hover{background-color:#DB4A39;}
-.faicon-linkedin:hover{background-color:#0E76A8;}
 .faicon-twitter:hover{background-color:#00ACEE;}
-.faicon-vk:hover{background-color:#4E658E;}
+.faicon-instagram:hover{background-color: #517FA4;}
 
 
 /* ------------------------------------------------------------------------------------------------------------ */
